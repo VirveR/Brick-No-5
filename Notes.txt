@@ -1,0 +1,13 @@
+622
+
+-kuvien kreditit
+-lomakkeiden napit
+-settilistauksen järjestäminen
+-tarkistus onko jo
+-vaihtoehtoiset nimet ja numerot
+-settivalikoiman ja kokoelman eriyttäminen
+-minifigs
+-tagit
+-merkkaus ehkä own
+-next ja previous kuvan alle
+-sbuilt ja instr heti uudelleenmuuttaminen

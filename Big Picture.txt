@@ -1,0 +1,5 @@
+-kuvien rekonstruktio
+-3D-mallit osista
+-3D-mallit + osatarpeet ohjeista
+-suomi-versio
+-tarra-arkit
